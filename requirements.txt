@@ -1,0 +1,13 @@
+streamlit>=1.35
+google-genai
+gtts
+pdfplumber
+Pillow
+folium
+streamlit-folium
+twilio
+flask
+python-dotenv
+requests
+opencv-python-headless
+numpy
